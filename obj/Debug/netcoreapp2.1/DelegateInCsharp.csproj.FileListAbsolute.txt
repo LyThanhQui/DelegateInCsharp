@@ -1,0 +1,10 @@
+H:\demo dotnettutorials\5. Delegate in C#\DelegateInCsharp\DelegateInCsharp\bin\Debug\netcoreapp2.1\DelegateInCsharp.deps.json
+H:\demo dotnettutorials\5. Delegate in C#\DelegateInCsharp\DelegateInCsharp\bin\Debug\netcoreapp2.1\DelegateInCsharp.runtimeconfig.json
+H:\demo dotnettutorials\5. Delegate in C#\DelegateInCsharp\DelegateInCsharp\bin\Debug\netcoreapp2.1\DelegateInCsharp.runtimeconfig.dev.json
+H:\demo dotnettutorials\5. Delegate in C#\DelegateInCsharp\DelegateInCsharp\bin\Debug\netcoreapp2.1\DelegateInCsharp.dll
+H:\demo dotnettutorials\5. Delegate in C#\DelegateInCsharp\DelegateInCsharp\bin\Debug\netcoreapp2.1\DelegateInCsharp.pdb
+H:\demo dotnettutorials\5. Delegate in C#\DelegateInCsharp\DelegateInCsharp\obj\Debug\netcoreapp2.1\DelegateInCsharp.csproj.CoreCompileInputs.cache
+H:\demo dotnettutorials\5. Delegate in C#\DelegateInCsharp\DelegateInCsharp\obj\Debug\netcoreapp2.1\DelegateInCsharp.AssemblyInfoInputs.cache
+H:\demo dotnettutorials\5. Delegate in C#\DelegateInCsharp\DelegateInCsharp\obj\Debug\netcoreapp2.1\DelegateInCsharp.AssemblyInfo.cs
+H:\demo dotnettutorials\5. Delegate in C#\DelegateInCsharp\DelegateInCsharp\obj\Debug\netcoreapp2.1\DelegateInCsharp.dll
+H:\demo dotnettutorials\5. Delegate in C#\DelegateInCsharp\DelegateInCsharp\obj\Debug\netcoreapp2.1\DelegateInCsharp.pdb
